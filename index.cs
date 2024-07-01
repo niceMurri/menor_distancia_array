@@ -42,6 +42,6 @@ public class Distance
             }
         }
         
-        return $"O numero {items[0]} do array 1 e o numero {items[1]} do array 2, tem a menor distancia, sendo ela: {difference}";
+        return $"O numero {items[0]} do array 1 e o numero {items[1]} do array 2, tem a menor distancia, sendo ela: {difference}.";
     }
 }
